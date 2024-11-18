@@ -3,7 +3,7 @@
 
 **tcrew5/tcrew5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here is a little more about me:
 
 - 🔭 I’m currently working on as a Senior Technical Product Manager as a consultant for Braintrust....
   - Some of the work I've done through Braintrust includes:
